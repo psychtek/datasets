@@ -1,1 +1,6 @@
-[]
+- path: Big5
+  name: Big5
+  rows: 15735
+  cols: 56
+  description: Big 5 Personality Measures
+  type: table

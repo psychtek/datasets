@@ -1,0 +1,67 @@
+path:
+- data.csv
+- data.rds
+rows: 15735
+cols: 56
+columns:
+  race: integer
+  age: integer
+  engnat: integer
+  gender: integer
+  hand: integer
+  country: character
+  E1: integer
+  E2: integer
+  E3: integer
+  E4: integer
+  E5: integer
+  E6: integer
+  E7: integer
+  E8: integer
+  E9: integer
+  E10: integer
+  N1: integer
+  N2: integer
+  N3: integer
+  N4: integer
+  N5: integer
+  N6: integer
+  N7: integer
+  N8: integer
+  N9: integer
+  N10: integer
+  A1: integer
+  A2: integer
+  A3: integer
+  A4: integer
+  A5: integer
+  A6: integer
+  A7: integer
+  A8: integer
+  A9: integer
+  A10: integer
+  C1: integer
+  C2: integer
+  C3: integer
+  C4: integer
+  C5: integer
+  C6: integer
+  C7: integer
+  C8: integer
+  C9: integer
+  C10: integer
+  O1: integer
+  O2: integer
+  O3: integer
+  O4: integer
+  O5: integer
+  O6: integer
+  O7: integer
+  O8: integer
+  O9: integer
+  O10: integer
+description: Big 5 Personality Measures
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
