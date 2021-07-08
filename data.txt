@@ -10,3 +10,9 @@
   cols: 14
   description: Housing data set
   type: table
+- path: Example Data
+  name: Example Data
+  rows: 23
+  cols: 1
+  description: Big 5 Personality Measures
+  type: table

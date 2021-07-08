@@ -1,0 +1,12 @@
+path:
+- data.csv
+- data.rds
+rows: 23
+cols: 1
+columns:
+  score: integer
+description: Big 5 Personality Measures
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
