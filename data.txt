@@ -4,3 +4,9 @@
   cols: 56
   description: Big 5 Personality Measures
   type: table
+- path: Housing
+  name: Housing
+  rows: 506
+  cols: 14
+  description: Housing data set
+  type: table

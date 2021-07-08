@@ -1,0 +1,25 @@
+path:
+- data.csv
+- data.rds
+rows: 506
+cols: 14
+columns:
+  CRIME: numeric
+  ZN: numeric
+  INDUS: numeric
+  CHAS: integer
+  NOX: numeric
+  ROOMS: numeric
+  AGE: numeric
+  DISTANCE: numeric
+  HIGHWAY: integer
+  TAX: integer
+  PUPIL.TEACHER: numeric
+  MINORITY: numeric
+  LSTAT: numeric
+  MED.VALUE: numeric
+description: Housing data set
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
