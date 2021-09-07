@@ -19,6 +19,6 @@
 - path: Scores
   name: Scores
   rows: 3
-  cols: 2
+  cols: 3
   description: Individual Scores on some test
   type: table

@@ -1,4 +1,4 @@
-"ID","Score"
-"AAA",123
-"BBB",456
-"CCC",789
+"ID","Score","Location"
+"AAA",123,"Aus"
+"BBB",456,"Arctic"
+"CCC",789,"USA"

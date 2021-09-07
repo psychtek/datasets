@@ -2,10 +2,11 @@ path:
 - data.csv
 - data.rds
 rows: 3
-cols: 2
+cols: 3
 columns:
   ID: character
   Score: numeric
+  Location: character
 description: Individual Scores on some test
 type: table
 filenames:
