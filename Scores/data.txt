@@ -1,0 +1,13 @@
+path:
+- data.csv
+- data.rds
+rows: 3
+cols: 2
+columns:
+  ID: character
+  Score: numeric
+description: Individual Scores on some test
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

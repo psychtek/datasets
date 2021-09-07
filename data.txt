@@ -16,3 +16,9 @@
   cols: 1
   description: Big 5 Personality Measures
   type: table
+- path: Scores
+  name: Scores
+  rows: 3
+  cols: 2
+  description: Individual Scores on some test
+  type: table
